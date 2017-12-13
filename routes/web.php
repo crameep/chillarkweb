@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/rules', function () {
+    return view('rules');
+});
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
