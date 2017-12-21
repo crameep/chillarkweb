@@ -71,7 +71,7 @@
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.200:21001">Connect to Aberration</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.139:29001">Connect to The Center</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.240:14401">Connect to Ragnarok</a>
-                    <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.241:13601">Connect to The Island</a><br><br>
+                    <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.152.248:23001">Connect to The Island</a><br><br>
           </div>
           
     </div>
