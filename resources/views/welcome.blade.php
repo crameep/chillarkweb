@@ -71,7 +71,7 @@
           <img class="logo" src="{{ asset('img/color_logo_transparent.png') }}"><br><h1>Full CrossArk PvP cluster for PC</h1>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.44:29001">Connect to Aberration</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.112:34001">Connect to The Center</a>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.220:3900">Connect to Ragnarok</a>
+          <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.220:39001">Connect to Ragnarok</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.157.13:25001">Connect to The Island</a><br><br>
           </div>
           
