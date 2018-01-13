@@ -57,6 +57,7 @@
             <li><a href="/">Home</a></li>
             <li><a href="/rules">Rules</a></li>
             <li><a href="https://discord.gg/fbzm3YB">Join Discord</a></li>
+            <li><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1184152959" target="_blank">Mod List</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -68,9 +69,9 @@
     <div class="cover">
         <div class="hi">
           <img class="logo" src="{{ asset('img/color_logo_transparent.png') }}"><br><h1>Full CrossArk PvP cluster for PC</h1>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.200:21001">Connect to Aberration</a>
+          <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.44:29001">Connect to Aberration</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.112:34001">Connect to The Center</a>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/37.10.125.152:44001">Connect to Ragnarok</a>
+          <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.156.220:3900">Connect to Ragnarok</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/85.190.157.13:25001">Connect to The Island</a><br><br>
           </div>
           
