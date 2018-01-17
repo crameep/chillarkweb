@@ -84,7 +84,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/BrainIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">4x Experience</h4>
+        <h4 class="card-title">8x Experience</h4>
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/PickaxeIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">8x Harvesting</h4>
+        <h4 class="card-title">16x Harvesting</h4>
       </div>
     </div>
   </div>
@@ -101,7 +101,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/DinoIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title rate-title">8x Taming</h4>
+        <h4 class="card-title rate-title">16x Taming</h4>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/EggIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">8x Hatching</h4>
+        <h4 class="card-title">32x Hatching</h4>
       </div>
     </div>
   </div>
@@ -125,7 +125,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/BabyIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">8x Maturation</h4>
+        <h4 class="card-title">32x Maturation</h4>
       </div>
     </div>
   </div>
