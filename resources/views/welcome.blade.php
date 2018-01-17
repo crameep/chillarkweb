@@ -69,7 +69,7 @@
     <div class="cover">
         <div class="hi">
           <img class="logo" src="{{ asset('img/color_logo_transparent.png') }}"><br><h1>Full CrossArk PvP cluster for PC</h1>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:7777">Connect to Aberration</a>
+          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27015">Connect to Aberration</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:7798">Connect to The Center</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:7788">Connect to Ragnarok</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:7779" disabled>Connect to The Island</a><br><br>
