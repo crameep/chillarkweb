@@ -72,7 +72,7 @@
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27015">Connect to Aberration</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27017">Connect to The Center</a>
           <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27016">Connect to Ragnarok</a>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27018" disabled>Connect to Shigo Islands</a><br><br>
+          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27018">Connect to Shigo Islands</a><br><br>
           </div>
           
     </div>
