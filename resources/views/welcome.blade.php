@@ -56,8 +56,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/">Home</a></li>
             <li><a href="/rules">Rules</a></li>
-            <li><a href="https://discord.gg/fbzm3YB">Join Discord</a></li>
-            <li><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=1184152959" target="_blank">Mod List</a></li>
+            <li><a href="https://discord.me/chillcoms">Join Discord</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -68,11 +67,12 @@
 
     <div class="cover">
         <div class="hi">
-          <img class="logo" src="{{ asset('img/color_logo_transparent.png') }}"><br><h1>Full CrossArk PvP cluster for PC</h1>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27015">Connect to Aberration</a>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27017">Connect to The Center</a>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27016">Connect to Ragnarok</a>
-          <a class="btn btn-default btn-md btn-primary" href="steam://connect/8.26.94.93:27018">Connect to Shigo Islands</a><br><br>
+          <img class="logo" src="{{ asset('img/color_logo_transparent.png') }}"><br><h1>Brand new CrossArk PvP cluster for PS4 Extinction Coming soon,
+            rest of the cluster to follow.
+          </h1>
+          <a class="btn btn-default btn-md btn-primary" href="">Ragnarok</a>
+          <a class="btn btn-default btn-md btn-primary" disabled href="">Aberation Soon</a>
+          <a class="btn btn-default btn-md btn-primary" disabled href="">Extinction 11/6/2018</a>
           </div>
           
     </div>
@@ -84,7 +84,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/BrainIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">8x Experience</h4>
+        <h4 class="card-title">20x Experience</h4>
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/PickaxeIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">16x Harvesting</h4>
+        <h4 class="card-title">20x Harvesting</h4>
       </div>
     </div>
   </div>
@@ -101,7 +101,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/DinoIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title rate-title">16x Taming</h4>
+        <h4 class="card-title rate-title">Instant Taming</h4>
       </div>
     </div>
   </div>
@@ -109,7 +109,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/AuctionIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">CrossArk Auctions Mod</h4>
+        <h4 class="card-title">Shop</h4>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/EggIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">32x Hatching</h4>
+        <h4 class="card-title">Instant Hatching</h4>
       </div>
     </div>
   </div>
@@ -125,7 +125,7 @@
     <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="{{ asset('img/BabyIcon128White.png') }}" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-title">32x Maturation</h4>
+        <h4 class="card-title">Instant Maturation</h4>
       </div>
     </div>
   </div>
